@@ -4,22 +4,26 @@ publishDate: 2020-03-02 00:00:00
 img: /assets/traces.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+ An idea motivated by passion.
 tags:
   - Design
   - Dev
-  - User Testing
+  
 ---
 
-## Level-two heading
+## THE TRACES OF TERROR
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> A BRIEF DESCRIPTION.
 
-Lorem ipsum dolor sit amet, <a href="https://www.thetracesofterror.piterxus.com/">The Traces Of Terror</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+<a href="https://www.thetracesofterror.piterxus.com/">The Traces Of Terror</a> 
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+I think that personal projects are the best way to make yourself known. An opportunity to demonstrate potential and Talent.
+In this case I look for motivation with one of my great passions, the horror genre.
+Trying to share it with fans seeking their complicity.
+Thus creating an interactive experience.
+In the future I will implement login and registration, providing a series of privileges (games, greater interaction, etc.) to registered users
 
-### Level-three heading
+<!-- ### Level-three heading
 
 Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
 
@@ -32,4 +36,4 @@ Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum qu
 #### Level-four heading
 
 - We noted this
-- And also this other point
+- And also this other point -->
